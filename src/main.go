@@ -16,18 +16,18 @@ func download() (err error) {
 	var game string = name + ".ciso"
 	var uri string = base + game
 
-	resp, err := http.Get(uri)
+	response, err := http.Get(uri)
 	if err != nil {
 		return err
 		os.Exit(1)
 	}
 
-	if resp.StatusCode != 200 {
+	if response.StatusCode != 200 {
    		fmt.Println("Error: Invalid URI!")
 		os.Exit(1)
     	}
 
-    defer resp.Body.Close()
+    	defer response.Body.Close()
 
 	file, err := os.Create(game)
 
