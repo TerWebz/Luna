@@ -25,7 +25,7 @@ func download() (err error) {
 	if resp.StatusCode != 200 {
    		fmt.Println("Error: Invalid URI!")
 		os.Exit(1)
-    }
+    	}
 
     defer resp.Body.Close()
 
