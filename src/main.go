@@ -9,7 +9,7 @@ import (
 
 func download() (err error) {
 	var name string
-	fmt.Printf("Enter a Game: ")
+	fmt.Printf("Enter a game name: ")
 	fmt.Scanf("%s", &name)	
 
 	var base string = "https://javier06.ejemplo.me/"
@@ -23,11 +23,13 @@ func download() (err error) {
 	}
 
 	if response.StatusCode != 200 {
-   		fmt.Println("Error: Invalid URI!")
+   		fmt.Println("Error: The servers are down or the URL is invalid.")
 		os.Exit(1)
-    	}
+    	} else {
+		fmt.Println("Downloading...")
+	}
 
-    	defer response.Body.Close()
+   	defer response.Body.Close()
 
 	file, err := os.Create(game)
 
@@ -46,7 +48,7 @@ func download() (err error) {
 }
 
 func main() {
-	var title string = "Luna v1.0.0"
+	var title string = "Luna v1.0.1"
 	fmt.Println(title)
 	download();
 } 
