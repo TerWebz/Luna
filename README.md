@@ -1,2 +1,3 @@
 # Luna
-A Wii/GameCube game downloader
+A Wii/GameCube game downloader made in Golang
+---
