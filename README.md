@@ -3,9 +3,9 @@ A Wii/GameCube game downloader made in Go
 
 ```
 javier@javier:~$ ./luna
-Luna v1.0.1
+Luna v1.0.2
 Enter a game: luigismansion 
-Downloading...
+Downloading luigismansion.ciso...
 ```
 
 ## Introduction
