@@ -3,7 +3,7 @@ A Wii/GameCube game downloader made in Go
 
 ```
 javier@javier:~$ ./luna
-Luna v1.0.2
+Luna v1.0.1.1
 Enter a game: luigismansion 
 Downloading luigismansion.ciso...
 ```
