@@ -23,7 +23,7 @@ func download() (err error) {
 	}
 
 	if response.StatusCode != 200 {
-   		fmt.Println("Error: The servers are down or the URL is invalid.")
+   		fmt.Println("Error: The servers are down or the URL/Game is invalid.")
 		os.Exit(1)
     	} else {
 		fmt.Println("Downloading...")
