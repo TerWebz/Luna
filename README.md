@@ -1,2 +1,2 @@
 ## Luna
-A Nintendo 64 game downloader made in Go
+A SNES/Nintendo 64 game downloader made in Go
