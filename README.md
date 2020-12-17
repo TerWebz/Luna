@@ -1,6 +1,13 @@
 ## Luna
 A Wii/GameCube game downloader made in Go
 
+```
+javier@javier:~$ ./luna
+Luna v1.0.1
+Enter a game: luigismansion 
+Downloading...
+```
+
 ## Introduction
 
 Welcome! If you are new with this kinda stuff, it will be very simple to you, trust me.
