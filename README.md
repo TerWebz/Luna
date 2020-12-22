@@ -20,4 +20,4 @@ If you choose to do 1, run `go build /path/to/luna/main.go` in your command prom
 Running the Program
 -------------------
 
-Once that is compiled, you'd probably want to run `./luna.exe -h` in a command prompt (Windows) or `./luna -h` in a terminal (Linux, MacOS, and UNIX-like systems), to get help on how to use Luna.
+uhh placeholder text... go home
