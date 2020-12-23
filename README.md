@@ -6,7 +6,7 @@ A SNES, N64, and GameCube game downloader made in [Go](http://golang.org)
 Introduction
 ------------
 
-Welcome to Luna! Luna is a downloader that downloads Super Nintendo games, Nintendo 64 games and \*Nintendo GameCube games (\* = select titles only)
+Welcome to Luna! Luna is a downloader that downloads Super Nintendo games, Nintendo 64 games and Nintendo GameCube games\* (\* = select titles only)
 
 To install Luna, you must have **Go** installed, which you can find [here](https://golang.org/dl/).
 
