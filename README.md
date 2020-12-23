@@ -24,8 +24,7 @@ Once you have Luna installed, you'd wanna of course, run it.
 **Note:** The game has to be typed in a specific format, on both platforms.
 
 ### Windows
-
-* * *
+===
 
 Run the program like so, `./luna.exe`. It would go ahead and prompt you to enter a gamename.
 
@@ -38,8 +37,7 @@ Usage: ./luna.exe <gamename>
 ```
 
 ### MacOS/Linux
-
-* * *
+===
 
 Run the program like so, `./luna`. It would go ahead and prompt you to enter a gamename.
 
@@ -57,5 +55,3 @@ The gamename would have to be written again, in a specific format. Here is an ex
 
 
 We hope to find a way to make it so you could be able to do the third option. :)
-
-* * *
