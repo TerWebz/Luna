@@ -33,7 +33,7 @@ Microsoft Windows (Version 10.0.10240)
 (c) 2015 Microsoft Corporation. All Rights Reserved.
 
 C:\Users\user> luna.exe
-Usage: ./luna.exe <gamename>
+Usage: luna.exe <gamename>
 ```
 
 MacOS/Linux
