@@ -26,7 +26,7 @@ Once you have Luna installed, you'd wanna of course, run it.
 Windows
 ===
 
-Run the program like so, `./luna.exe`. It would go ahead and prompt you to enter a gamename.
+Run the program like so, `luna.exe`. It would go ahead and prompt you to enter a gamename.
 
 ```
 Microsoft Windows (Version 10.0.10240)
