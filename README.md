@@ -23,7 +23,7 @@ Running the Program
 Once you have Luna installed, you'd wanna of course, run it.
 **Note:** The game has to be typed in a specific format, on both platforms.
 
-### Windows
+Windows
 ===
 
 Run the program like so, `./luna.exe`. It would go ahead and prompt you to enter a gamename.
@@ -36,7 +36,7 @@ C:\Users\user> luna.exe
 Usage: ./luna.exe <gamename>
 ```
 
-### MacOS/Linux
+MacOS/Linux
 ===
 
 Run the program like so, `./luna`. It would go ahead and prompt you to enter a gamename.
