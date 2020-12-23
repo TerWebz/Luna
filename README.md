@@ -20,4 +20,5 @@ If you choose to do 1, run `go build /path/to/luna/main.go` in your command prom
 Running the Program
 -------------------
 
-uhh placeholder text... go home
+Once you have Luna installed, you'd wanna of course, run it.
+
