@@ -37,8 +37,6 @@ C:\Users\user> luna.exe
 Usage: ./luna.exe <gamename>
 ```
 
-* * * 
-
 ### MacOS/Linux
 
 * * *
@@ -54,11 +52,10 @@ The gamename would have to be written again, in a specific format. Here is an ex
 
 | Correct Ways        	| Incorrect Ways        	| 
 |---------------------	|-----------------------	|
-| supermarioworld.zip 	| supermarioworld       	|  	
-|                     	| SuPeRMaRiOWoRlD.ZiP   	|   	
-|                     	| Super Mario World.zip 	| 
+| supermarioworld.zip 	| SuPeRMaRiOWoRlD.ZiP   	|
+| supermarioworld       | Super Mario World.zip 	|                    	
 
 
-We hope to find a way to make it so you could be able to do the first and third option. :)
+We hope to find a way to make it so you could be able to do the third option. :)
 
 * * *
