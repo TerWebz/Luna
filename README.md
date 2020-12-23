@@ -21,4 +21,44 @@ Running the Program
 -------------------
 
 Once you have Luna installed, you'd wanna of course, run it.
+**Note:** The game has to be typed in a specific format, on both platforms.
 
+### Windows
+
+* * *
+
+Run the program like so, `./luna.exe`. It would go ahead and prompt you to enter a gamename.
+
+```
+Microsoft Windows (Version 10.0.10240)
+(c) 2015 Microsoft Corporation. All Rights Reserved.
+
+C:\Users\user> luna.exe
+Usage: ./luna.exe <gamename>
+```
+
+* * * 
+
+### MacOS/Linux
+
+* * *
+
+Run the program like so, `./luna`. It would go ahead and prompt you to enter a gamename.
+
+```
+javier@Javier:~$ ./luna
+Usage: ./luna <gamename>
+```
+
+The gamename would have to be written again, in a specific format. Here is an example of what that would look like.
+
+| Correct Ways        	| Incorrect Ways        	| 
+|---------------------	|-----------------------	|
+| supermarioworld.zip 	| supermarioworld       	|  	
+|                     	| SuPeRMaRiOWoRlD.ZiP   	|   	
+|                     	| Super Mario World.zip 	| 
+
+
+We hope to find a way to make it so you could be able to do the first and third option. :)
+
+* * *
